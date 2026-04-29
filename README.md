@@ -41,9 +41,4 @@ This repository contains the complete documentation and technical implementation
 
 ---
 
-## 🎥 Project Demonstration
-Check out the video walkthrough of the entire project, including the vulnerability tests and final audit:  
-[Watch the Demo Video Here](Aapka_Video_Link_Yahan_Ayega)
-
----
 *Developed as part of the 2026 Cybersecurity Internship Program.*
